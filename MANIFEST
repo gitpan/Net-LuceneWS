@@ -1,0 +1,11 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+demo.pl
+t/Net-LuceneWS.t
+lib/Net/LuceneWS.pm
+lib/Net/LuceneWS/Hit.pm
+lib/Net/LuceneWS/Parser.pm
+lib/Net/LuceneWS/SearchResults.pm
+META.yml                                 Module meta-data (added by MakeMaker)

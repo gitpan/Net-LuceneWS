@@ -1,0 +1,26 @@
+Net-LuceneWS version 0.01
+=========================
+
+This module provides and an interface to Robert Kaye's Lucene Web Service
+package, lucene-ws.
+
+NOTE: The API isn't stable yet! 
+
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2005 by Matthias Friedrich <matt@mafr.de>
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself, either Perl version 5.8.4 or,
+at your option, any later version of Perl 5 you may have available.
